@@ -29,5 +29,5 @@ This project provides an automation script to set up the full development enviro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/soai-dev-setup.git
+git clone https://github.com/yugavardhank/soai-dev-setup.git
 cd soai-dev-setup
